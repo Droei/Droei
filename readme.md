@@ -5,5 +5,3 @@ Currently researching ways to bridge **thoughtful level design** with **procedur
 
 Holder of a **degree in Software Development**, currently pursuing a **Master's in Game Design**.
 Hoping to share more **open source projects** along the way as I keep building out my portfolio. 
-
-Currently focussing on **game design research** and the technical foundations that make infinite worlds possible, while also exploring smaller side projects to switch things up.
