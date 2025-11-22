@@ -1,8 +1,9 @@
-# Hi, I'm Daan  
-**Passionate developer exploring infinite worlds**
+# Hi, I'm Daan
 
-I'm diving deeper into **procedural generation**, **mathematics** and the creative challenges of building infinite systems.  
-I hold a **degree in Software Development** and I'm currently working toward a **Master's in Game Design**.
+Passionate full stack developer exploring the creation of **infinitely generated game worlds** and the mathematics behind them. 
+Currently researching ways to bridge **thoughtful level design** with **procedural, infinite world generation**.
 
-As I grow, I aim to share more of my work through **open source projects**, experiments and ideas.
-Right now, I'm focused on expanding my understanding of **infinite procedural world generation**, and I'm exploring the possibility of making a **modular communication system** for player-to-NPC interactions in RPG-style games.
+Holder of a **degree in Software Development**, currently pursuing a **Master's in Game Design**.
+Hoping to share more **open source projects** along the way as I keep building out my portfolio. 
+
+Currently focussing on **game design research** and the technical foundations that make infinite worlds possible, while also exploring smaller side projects to switch things up.
