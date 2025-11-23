@@ -8,4 +8,4 @@ Hoping to share more **open source projects** along the way as I keep building o
 
 Currently working on:
 - A modular data pipeline using Python and ClickHouse to log in-game player actions (via Unity) and correlate them with out-of-game survey responses for behavioral analysis.
-- Building a very strong foundation in shader development through Unity and HLSL and bridge that knowledge to procedural world generation.
+- Building a very strong foundation in shader development through Unity & HLSL in order to bridge that knowledge towards infinite procedural world generation.
