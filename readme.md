@@ -6,4 +6,6 @@ Currently researching ways to bridge **thoughtful level design** with **procedur
 Holder of a **degree in Software Development**, currently pursuing a **Master's in Game Design**.
 Hoping to share more **open source projects** along the way as I keep building out my portfolio. 
 
-Currently working on a modular data pipeline using Python and ClickHouse to log in-game player actions (via Unity) and correlate them with out-of-game survey responses for behavioral analysis.
+Currently working on:
+- A modular data pipeline using Python and ClickHouse to log in-game player actions (via Unity) and correlate them with out-of-game survey responses for behavioral analysis.
+- Building a very strong foundation in shader development through Unity and HLSL and bridge that knowledge to procedural world generation.
