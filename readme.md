@@ -8,5 +8,5 @@ Experience in web development, design, backend development and game development 
 Hoping to share more **open source projects** along the way as I keep building out my portfolio. 
 
 Currently working on:
-- A modular data pipeline using Python and ClickHouse to log in-game player actions (via Unity) and correlate them with out-of-game survey responses for behavioral analysis.
+- A procedural 3D world using Minecraft as a prototyping engine as a proof of concept for my Bachelor thesis on simplifying procedural generation through smart game design.
 - Building a very strong foundation in shader development through Unity & HLSL in order to bridge that knowledge towards infinite procedural world generation.
